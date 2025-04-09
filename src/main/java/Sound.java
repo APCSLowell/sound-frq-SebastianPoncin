@@ -5,6 +5,7 @@ public class Sound
   int[] samples;
 
 
+  
 
   /** Changes those values in this sound that have an amplitude greater than limit.
    *  Values greater than limit are changed to limit.
